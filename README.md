@@ -8,7 +8,7 @@
 </p>
 
 <p align="right">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=runthis" alt="An image showing how often I commit code">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=runthis&hide_border=true" alt="An image showing how often I commit code">
 </p>
 
 #### Sometimes I use these languages.
