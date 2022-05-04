@@ -1,8 +1,6 @@
 ### Hello 👋
 #### Sometimes I type things and put them here.
 
-
-  
 <p align="left">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runthis&langs_count=6&layout=compact" alt="An image showing programming languages I use">
   <img src="https://github-readme-stats.vercel.app/api?username=runthis&count_private=true&show_icons=true&hide_title=true&hide_border=true" alt="An image showing my contributions">
@@ -22,8 +20,6 @@
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg" alt="gnu bash" title="Bash"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg" alt="python" title="Python"></code>
 
-
-
 #### While using these technologies.
 
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/laravel.svg" alt="laravel" title="Laravel"></code>
@@ -32,6 +28,3 @@
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sass.svg" alt="sass" title="Sass"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/nginx.svg" alt="nginx" title="Nginx"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="mysql" title="MySQL"></code>
-
-
-
