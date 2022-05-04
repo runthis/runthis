@@ -26,12 +26,12 @@
 
 #### While using these technologies.
 
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/laravel.svg" alt="laravel" title="Laravel"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" alt="react" title="React"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg" alt="docker" title="Docker"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sass.svg" alt="sass" title="Sass"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/nginx.svg" alt="nginx" title="Nginx"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="mysql" title="MySQL"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sass.svg" alt="sass" title="Sass"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" alt="react" title="React"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/laravel.svg" alt="laravel" title="Laravel"></code>
 
 
 
