@@ -4,8 +4,8 @@
 
   
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runthis&langs_count=6&layout=compact" alt="An image showing programming languages I use">
-  <img src="https://github-readme-stats.vercel.app/api?username=runthis&count_private=true&show_icons=true&hide_title=true" alt="An image showing my contributions">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runthis&langs_count=6&layout=compact" alt="An image showing programming languages I use">
+  <img src="https://github-readme-stats.vercel.app/api?username=runthis&count_private=true&show_icons=true&hide_title=true&hide_border=true" alt="An image showing my contributions">
   <hr />
 </p>
 
